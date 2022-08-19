@@ -1,6 +1,8 @@
 # JoinPDFpages
  Join different PDF pages in one file
 
+PROJETO CRIADO EM PYTHON
+
 Criei esse executável, para poder juntar as páginas em um único arquivo em PDF.
 
 Foram utilizadas as bibliotecas:
