@@ -5,7 +5,7 @@ Criei esse executável, para poder juntar as páginas em um único arquivo em PD
 
 Foram utilizadas as bibliotecas:
 <br>-FILEDIALOG(TKINTER) - para selecionar a pasta com os arquivos em PDF no computador
-<br>-PYPDF2(para ler o arquivo em PDF)
+<br>-PDFFILEREADER(PYPDF2) - para ler o arquivo em PDF
 <br>-MESSAGE BOX (TKINTER) - Para informar ao usuário que o arquivo PDF unificado foi gerado
 <br>-PATHLIB (para criar uma pasta, no local onde os arquivos em PDF se encontram, para o arquivo unificado ser salvo)
 
